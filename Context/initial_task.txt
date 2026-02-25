@@ -1,0 +1,10 @@
+It is a Project 1 in my advanced Deep Learning class. I need to address this: 
+
+"The wheels should start turning now - I am giving you leeway on Project 1 to explore something that looks good on your CV. You can do regression like M1_3 with 2D data, or you can push yourself. 
+You just need to make sure you are fitting a model (loss curves, error metrics) and performing analysis (SHAP, interval size, inspection of outliers). 
+What types of things are your 'best successes' and 'biggest misses'?
+
+You can make an .ipynb that goes out, grabs the data, cleans it up (there are duplicates), and see if your Bayesian(ish) NN can make a better point and interval estimate than baseline.
+
+1) Apply epistemic and aleatoric loss to classification or regression problems. You'll need to ask GenAI how to tweak the M1.3 notebook for this.  
+2) Create a one-time analysis or if you want to push yourself, a system that runs 24/7 on GCP. You just need a yml that grabs real-world data every X hours."
